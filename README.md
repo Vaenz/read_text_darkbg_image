@@ -1,5 +1,5 @@
 # read_text_from_image
-Using pytesseract to read text from dark background image with python
+Using pytesseract to read text from dark background image and also chinese text from image with python
 
 Installation required :
 1) Install tesseract-OCR https://github.com/UB-Mannheim/tesseract/wiki
